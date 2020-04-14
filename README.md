@@ -1,6 +1,6 @@
-# Docker simple register example 
+# Docker email sender example 
 
-A simple register using express, mongoDB with docker-compose.
+An example of a sending-email application with Python, Postgres, Redis and Docker.
 
 * you need to install [Docker](https://www.docker.com/get-started) first.
 
