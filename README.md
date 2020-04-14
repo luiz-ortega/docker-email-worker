@@ -9,3 +9,6 @@ An example of a sending-email application with Python, Postgres, Redis and Docke
 
 ## Diagram
 ![Diagram](https://github.com/luiz-ortega/docker-email-worker/blob/master/diagram.png)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
