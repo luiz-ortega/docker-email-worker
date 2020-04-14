@@ -7,4 +7,5 @@ An example of a sending-email application with Python, Postgres, Redis and Docke
 1. Clone repo
 2. docker-compose up
 
+## Diagram
 ![Diagram](https://github.com/luiz-ortega/docker-email-worker/blob/master/diagram.png)
